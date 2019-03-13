@@ -1,7 +1,3 @@
 hello world
 this line is wrong.
-<<<<<<< HEAD
 this two.
-=======
-this one.
->>>>>>> 465d8afea99338ba26e622ee06c4203e03d7afd3
