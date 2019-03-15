@@ -1,2 +1,6 @@
 test file..
+<<<<<<< HEAD
 this line is added by slj.
+=======
+this line is added by ypp.
+>>>>>>> dev-ypp
